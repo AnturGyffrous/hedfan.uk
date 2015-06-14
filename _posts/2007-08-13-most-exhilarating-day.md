@@ -2,7 +2,7 @@
 layout:     post
 title:      "The Most Exhilarating Day of My Life"
 date:       2007-08-13
-author:     "Owain Williams"
+author:     "Owain Abraham-Williams"
 header-img: "img/post-bg-01.jpg"
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      "The Most Exhilarating Day of My Life"
+subtitle:   "A static line parachute jump at Redlands Airfield"
 date:       2007-08-11
 author:     "Owain Abraham-Williams"
 header-img: "img/post-bg-01.jpg"

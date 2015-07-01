@@ -22,7 +22,7 @@ Undeterred he returned to Barton Aerodrome near Manchester a few weeks later for
 
 The remainder of the book charts his progress through the UK Private Pilot's Licence (PPL) in diary form, showing the date for each entry along with lesson number, total flying hours and exercises conducted. This is interspersed with good humour, more detailed information on the various types of licences and ratings that are available, the social aspects of flying clubs and the work/life balance.
 
-Along with getting his head around the various technicalities of learning to fly, Jason also covers the emotional journey in learning to fly. In the United Kingdom this obviously includes the trials and tribulations related to our changeable weather, he recounts many examples of lessons having to be changed, curtailed or even cancelled due to inclement weather.
+Along with getting his head around the various technicalities of learning to fly, Jason also covers the emotional journey in learning to fly. In the United Kingdom this obviously includes the trials and tribulations related to our changeable weather, he recounts many examples of lessons having to be changed, curtailed or even cancelled due to tempestuous weather.
 
 But the emotional challenges aren't limited to the weather. He discusses in a very accessible way what it feels like to be completely overthrown by the number of procedures and simultaneous activities that have to be mastered in order to become a pilot, something that he really struggles with in the early lessons. Jason also spends time talking about what it feels like to fly with a different instructor after building up a rapport with someone else. And the difficulties posed with not getting on well with an instructor.
 

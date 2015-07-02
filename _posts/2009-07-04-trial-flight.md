@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "A Trial Flight With Tiger Airways"
-subtitle:   "The thrill of flying an aeroplane for the first time, from Gloucestershire Airport (EGBJ)"
+subtitle:   "The thrill of flying an aeroplane for the first time"
 date:       2009-07-04
 author:     "Owain Abraham-Williams"
 header-img: "img/post-bg-02.jpg"

@@ -16,13 +16,13 @@ obvious airfield as fas as proximity is concerned is Bristol International Airpo
 but both Cotswold Airport, formerly RAF Kemble (EGBP) and Gloucestershire Airport (EGBJ)
 are within commuting distance.
 
-After a few emails and phone calls I whittled down my list to [The Bristol and Wessex
+After a few emails and phone calls I whittled my list down to [The Bristol and Wessex
 Aeroplane Club](http://www.bristolandwessex.co.uk/) at Bristol International Airport and
 [Bristol Aero Club](http://www.bristolaeroclub.co.uk/) at Kemble (although officially
 called Cotswold Airport, I now realise everyone in the aviation industry refers to it as
 Kemble!)
 
-I spent the day visiting both clubs and met some of the instructors and staff. I was very
+I went and visited both clubs and met some of the instructors and staff. I was very
 impressed with what they had to offer, everyone was friendly and talked me through what
 would be involved. I had lots of questions, here are some of them along with a summary of
 what I was told:
@@ -35,7 +35,7 @@ what I was told:
     Pilot Licence (PPL) requires 45 hours.
 
 	However, it may take longer than this before you are proficient enough to pass the
-	skills test. It will also depend on how often you can fly which may be dictated by
+	skill test. It will also depend on how often you can fly which may be dictated by
 	aircraft availability, weather and your own commitments. Many people take more than
 	55 hours to pass their PPL, with the average closer to 65 hours.
 
@@ -60,26 +60,26 @@ what I was told:
 * ***Is there a time limit on getting your licence once you start training?***
 
     No, you can take as long as you like. An hour logged today will still count in several
-    years time. However, there is an 18 month limit on passing your skills test once you
+    years time. However, there is an 18 month limit on passing your skill test once you
     take the first theory exam. If you take longer than 18 months then you'll have to
-    re-take any theory tests that have elapsed.
+    re-take any theory tests that have lapsed.
 
 * ***Are there any prerequisites to flying solo?***
 
     Both the PPL and the LAPL require that you log a certain amount of solo flight time
-    before you can pass the skills test. It is a legal requirement that you hold a
+    before you can pass the skill test. It is a legal requirement that you hold a
     suitable medical certificate before you can fly solo. Some clubs also require that you
     pass the Air Law theory exam, but this isn't a legal requirement.
 
 * ***What if I move away from the club, or just don't get on with my instructor?***
 
-    No problem, a record of your progress will be kept in your Student Record of Training
-    and the club will keep a record of this as well. If you want to change clubs you just
-    need to give the new club this record along with your log book and they'll be able to
-    pick up where you left off. Clubs also understand that not everyone will get on with
-    each other and that learning to fly is an expensive hobby, so if you want to change
-    your instructor this is usually very easy and no hard feelings will be held by your
-    existing instructor or the club.
+    No problem, a record of your progress will be kept in your log book as well as your
+    Student Record of Training and the club will keep a record of your progress as well.
+    If you want to change clubs you just need to give the new club this record along with
+    your log book and they'll be able to pick up where you left off. Clubs also understand
+    that not everyone will get on with each other and that learning to fly is an expensive
+    hobby, so if you want to change your instructor this is usually very easy and no hard
+    feelings will be held by your existing instructor or the club.
 
 * ***Can I gain additional ratings after passing my licence?***
 
@@ -87,7 +87,7 @@ what I was told:
     during the day with no more than 3 passengers and in an aeroplane with fixed landing
     gear. However, after you've got your licence you can do additional "differences
     training" which you can add to your licence, for example this might allow you to fly
-    in plains that have retractable landing gear. You can also do additional "ratings" to
+    in planes that have retractable landing gear. You can also do additional "ratings" to
     allow you to fly at night, or in the case of the PPL to fly in inclement weather, or
     in planes with multiple engines, or even train as a comercial pilot and start making a
     living as a pilot for hire.

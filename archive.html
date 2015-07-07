@@ -1,0 +1,31 @@
+---
+layout: page
+title: Archive
+description: "All of my posts in one convenient place"
+---
+ 
+<div class="post">
+    <ul>
+      {% for post in site.posts %}
+        {% unless post.next %}
+          <h2>{{ post.date | date: '%Y - %B' }}</h2>
+        {% else %}
+          {% capture year %}{{ post.date | date: '%Y %B' }}{% endcapture %}
+          {% capture nyear %}{{ post.next.date | date: '%Y %B' }}{% endcapture %}
+          {% if year != nyear %}
+            <h2>{{ post.date | date: '%Y - %B' }}</h2>
+          {% endif %}
+        {% endunless %}
+ 
+        <li>
+            <a href="{{ post.url }}">
+                {% assign d = post.date | date: "%-d"  %}{{ post.date | date: "%a " }}{% case d %}{% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %} - {{ post.title }}
+                {% if post.subtitle %}
+                <br />
+                <i>{{ post.subtitle }}</i>
+                {% endif %}
+            </a>
+        </li>
+      {% endfor %}
+    </ul>
+</div>

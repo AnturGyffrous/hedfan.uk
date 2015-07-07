@@ -22,13 +22,16 @@ In order get a certificate, first you must attend a medical examination, this wi
 checking your pulse, blood pressure, urine, eyesight and hearing as well as going through
 your medical history to check you're fit to fly.
 
-A LAPL medical examination can usually be conducted by your GP, the other two have to be
-done by a Civil Aviation Authority (CAA) approved Aeromedical Examiner (AME). You should
-be able to find an AME relatively close to your home, a Class 2 medical will usually be
-conducted in a local GP surgery, or even in the medical examiner's home and will take
-about an hour to complete. An initial Class 1 medical on the other hand can only be
-carried out at a designated aeromedical centre, either at the CAA or NATS in Swanwick or
-Prestwick and will probably take 4 or more hours to complete.
+A LAPL medical examination can usually be conducted by your GP and is similar to that
+required for a HGV licence, the other two have to be done by a Civil Aviation Authority
+(CAA) approved Aeromedical Examiner (AME). You should be able to find an AME relatively
+close to your home, the CAA website has a [Medical Examiners Database Search](http://www.caa.co.uk/application.aspx?catid=49&pagetype=65&appid=21)
+which will list all the medical examiners in your area.
+
+A Class 2 medical will usually be conducted in a local GP surgery, or even in the medical
+examiner's home and will take about an hour to complete. An initial Class 1 medical on the
+other hand can only be carried out at a designated aeromedical centre, either at the CAA
+or NATS in Swanwick or Prestwick and will probably take 4 or more hours to complete.
 
 Class 2 Medical Certificate
 ---------------------------
@@ -76,7 +79,8 @@ still fly. My eyesight was fine.
 Before I could be issued with a medical certificate I was asked to speak with my doctor
 and have a measurement taken with a peak flow meter as well as disclosure of my medical
 history relating to asthema. I booked in with my GP the following Monday and he saw no
-reason why I wouldn't be able to fly.
+reason why I wouldn't be able to fly. The whole process (which included the option's
+report, medical examination, CAA Administration fee and GP fees) cost me £153.
 
 In this morning's post there was a letter from my aeromedical examiner saying that
 everything was fine, I am now the owner of a "European Union Class 2 Medical Certificate

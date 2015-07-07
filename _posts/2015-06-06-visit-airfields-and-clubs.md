@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "A Visit to Local Airfields and Clubs"
-subtitle:   "My own first steps in learning to fly light aircraft"
+subtitle:   "Some questions and answers on what it takes to become a pilot"
 date:       2015-06-06
 author:     "Owain Abraham-Williams"
 ---

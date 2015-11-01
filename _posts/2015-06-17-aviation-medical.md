@@ -80,7 +80,7 @@ still fly. My eyesight was fine.
 Before I could be issued with a medical certificate I was asked to speak with my doctor
 and have a measurement taken with a peak flow meter as well as disclosure of my medical
 history relating to asthema. I booked in with my GP the following Monday and he saw no
-reason why I wouldn't be able to fly. The whole process (which included the option's
+reason why I wouldn't be able to fly. The whole process (which included the optician's
 report, medical examination, CAA Administration fee and GP fees) cost me £153.
 
 In this morning's post there was a letter from my aeromedical examiner saying that

@@ -31,7 +31,8 @@ which will list all the medical examiners in your area.
 A Class 2 medical will usually be conducted in a local GP surgery, or even in the medical
 examiner's home and will take about an hour to complete. An initial Class 1 medical on the
 other hand can only be carried out at a designated aeromedical centre, either at the CAA
-or NATS in Swanwick or Prestwick and will probably take 4 or more hours to complete.
+in Gatwick or NATS in Swanwick or Prestwick and will probably take 4 or more hours to
+complete.
 
 Class 2 Medical Certificate
 ---------------------------

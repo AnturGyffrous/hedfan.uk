@@ -7,6 +7,7 @@ baseurl: ""
 url: "http://hedfan.uk"
 twitter_username: AnturGyffrous
 github_username:  AnturGyffrous
+author: Owain Abraham-Williams
 
 # Build settings
 markdown: kramdown

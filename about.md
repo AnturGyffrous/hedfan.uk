@@ -1,14 +1,27 @@
 ---
-layout: page
-title: "About"
-description: "Hedfan? What Does That Mean?"
-header-img: "img/about-bg.jpg"
+layout:         page
+title:          "About"
+description:    "Hedfan? What Does That Mean?"
+header-img:     "img/about-bg.jpg"
 ---
 
-<p>Welcome to my blog, Hedfan. First, let me introduce myself; my name is Owain, I am in my mid-thirties and I live in Bristol in the South West of England. I started this blog as I&#8217;ve been fascinated with flight since I can remember and wanted to share my passion for aviation with others.</p>
+Welcome to my blog, Hedfan. First, let me introduce myself; my name is Owain, I am in my
+mid-thirties and I live in Bristol in the South West of England. I started this blog as
+I've been fascinated with flight since I can remember and wanted to share my passion for
+aviation with others.
 
-<p>I&#8217;ve always loved the thrill of powering down the runway in an aeroplane, that force pushing you back into the seat as the craft accelerates to take-off speed is exhilarating. And while others were daunted by airports I&#8217;ve always found them exciting. As a child I was invited into the cockpit of a Boeing 747 mid-flight and was awestruck. I&#8217;ve played flight simulation games, been a member of a Virtual Airline, been aboard Concorde (admittedly only on the ground in a museum, but that still counts right?), parachuted out of an aeroplane and in June 2015 I started learning to fly light aircraft with <a href="http://www.bristolandwessex.co.uk/">The Bristol and Wessex Aeroplane Club</a>.</p>
+I've always loved the thrill of powering down the runway in an aeroplane, that force
+pushing you back into the seat as the craft accelerates to take-off speed is exhilarating.
+And while others were daunted by airports I've always found them exciting. As a child I
+was invited into the cockpit of a Boeing 747 mid-flight and was awestruck. I've played
+flight simulation games, been a member of a Virtual Airline, been aboard Concorde
+(admittedly only on the ground in a museum, but that still counts right?), parachuted out
+of an aeroplane and in June 2015 I started learning to fly light aircraft with
+[The Bristol and Wessex Aeroplane Club](http://www.bristolandwessex.co.uk/).
 
-<p>So why Hedfan? Well, I was brought up in Wales, not England. Hedfan is the Welsh word for flight or flying (actually, &#8220;hedegog&#8221; is probably a closer translation to flying, &#8220;hedfan&#8221; just means flight, but it&#8217;s shorter and easier to say, so that&#8217;s why I chose it!) In Welsh, a single &#8216;f&#8217; makes a &#8216;v&#8217; sound, so you pronounce it &#8220;head-van&#8221;.</p>
+So why Hedfan? Well, I was brought up in Wales, not England. Hedfan is the Welsh word for
+flight or flying (actually, "hedegog" is probably a closer translation to flying, "hedfan"
+just means flight, but it's shorter and easier to say, so that's why I chose it!) In
+Welsh, a single 'f' makes a 'v' sound, so you pronounce it "head-van".
 
-<p>Croeso i hedfan.</p>
+Croeso i hedfan.

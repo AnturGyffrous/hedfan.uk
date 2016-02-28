@@ -1,19 +1,19 @@
 ---
 layout:     post
 title:      "Day 27 - Lesson Cancelled"
-subtitle:   "Cloud and rain give me a chance to work on my weather voodoo doll!"
+subtitle:   "Cloud and rain mean the closest I'll get to flying is reading about it"
 date:       2015-12-20
 author:     "Owain Abraham-Williams"
 ---
 
-    TAF EGGD 201100Z 2012/2112 22010KT 9999 SCT020
-             TEMPO 2012/2018 23018G28KT 7000 SHRA
-             PROB30 TEMPO 2012/2018 4000 +SHRA BKN012CB
-             BECMG 2109/2112 21015G25KT 9000 -RA BKN010
-             TEMPO 2109/2112 RA BKN007
-             PROB30 TEMPO 2110/2112 2000 +RADZ BKN003=
+Since my [last lesson](2015/11/22/day-26-lesson-14-circuit-bashing/) I'd been away so
+hadn't been able to fly the previous 3 weekends, so I was really hoping to get in the air
+today, especially as Derek had said I was ready to go solo, but cloud and rain meant my
+lesson was cancelled. As Christmas is just around the corner I won't get to fly for a
+while now.
 
-    METAR EGGD 201120Z AUTO 23011KT 190V270 9999 -RA BKN014///
-               BKN025/// OVC037/// //////TCU 10/07 Q1009=
+Instead, I'll spend the festive season reading more of the [Communications](http://www.pooleys.com/prod_detail.cfm?product_id=5)
+volume of the Air Pilot's Manuals, as Derek said my radio telecommunications needed some
+work.
 
 #### TOTAL FLYING HOURS = 15.5

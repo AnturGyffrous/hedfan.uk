@@ -6,6 +6,8 @@ date:       2016-01-09
 author:     "Owain Abraham-Williams"
 ---
 
+With Nafis
+
     TAF EGGD 091100Z 0912/1012 18012KT 9999 SCT020
              TEMPO 0912/0924 19017G27KT 7000 SHRA BKN010
              PROB30 TEMPO 0912/0924 3000 +SHRA BKN006 BKN020CB

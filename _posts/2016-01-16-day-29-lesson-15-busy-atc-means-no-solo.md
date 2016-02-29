@@ -1,10 +1,24 @@
 ---
 layout:     post
 title:      "Day 29 - Lesson 15"
-subtitle:   "Circuits"
+subtitle:   "Andrew tries to send me for my first solo, but ATC are too busy"
 date:       2016-01-16
 author:     "Owain Abraham-Williams"
 ---
+
+With holidays, weather cancellations and Christmas it's been 8 weeks since my [last lesson](2015/11/22/day-26-lesson-14-circuit-bashing/),
+so I was very glad to be back at The Bristol and Wessex Aeroplane Club. Today I would be
+flying with a different instructor, Andrew, in *Tango Lima*.
+
+Andrew and I spend a while going over what I had learnt so far. I said that Derek had
+thought I was ready for my solo, but given that was nearly two months ago I expected to be
+quite rusty. I also mention that I'd been reading up on radio telecommunications as I
+hadn't been very precise in a few of my calls last lesson.
+
+Once in the plane Andrew tells me to call for clearance to start. I ask if we should
+listen to the ATIS first but Andrew says the tower will give us what we need for circuits.
+We're given our engine start and taxi clearance and after a short wait for commercial
+traffic we're cleared for take off.
 
     TAF EGGD 160457Z 1606/1706 32006KT 9999 FEW025
              TEMPO 1619/1706 6000 SHRA BKN009=

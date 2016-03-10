@@ -50,7 +50,7 @@ separated by a river, as indicated on my map.
 Derek explains that as I get more experienced I will need to prepare proper flight plans
 that take into account air speed, the bearings I need to fly, the forecast wind speed and
 direction so I can correct for drift and how long it will take to fly each leg of the
-plan. Today though he says we're just having fun!
+plan. Today though he says we're just enjoying ourselves!
 
 Next we turn towards Warminster and en route I identify the TV mast near Wells (the
 tallest structure in South West England), the town of Shepton Mallet, how high ground is

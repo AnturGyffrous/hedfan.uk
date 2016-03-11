@@ -16,8 +16,8 @@ author:     "Owain Abraham-Williams"
  * The wind is quite strong, but it's not gusting and is blowing straight down the runway.
  * 1st landing is okay, but not great.
  * 2nd landing is even worse, I roll-out too high and have to re-do it, but it's okay.
- * On the next circuit we're asked to keep it tight, then we have to orbit right instead of turning final, then we're told to go aroun.
- * 3rd landing is a greaser, best landing ever!
+ * On the next circuit we're asked to keep it tight, then we have to orbit right instead of turning final, then we're told to go around. I forget to take the flap off, Derek reminds me at 1,000 feet.
+ * On the next circuit we are number 4 in traffic and have to hold for 10 minutes. It must have calmed me because the 3rd landing is a greaser, best landing ever!
  * 4th landing is also a greaser. This feels really good.
  * We park up just off the runway and Derek hops out.
  * Now it's time for my first solo.

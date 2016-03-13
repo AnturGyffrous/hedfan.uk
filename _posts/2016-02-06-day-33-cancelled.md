@@ -6,6 +6,19 @@ date:       2016-02-06
 author:     "Owain Abraham-Williams"
 ---
 
+Last weekend the weather was lovely with clear blue skies. I had a great lesson, so good
+in fact that I finally did my [first solo](/2016/01/30/day-32-lesson-17-first-solo/)
+flight. I was elated. Afterwards my instructor, Derek, said that on my next lesson he'd
+like to get me flying solo again. He said that an hour of circuits on my own would help
+boost my confidence. I was looking forward to this.
+
+But today the weather was decidedly miserable. Heavy rain, thick cloud just a few hundred
+feet above the runway, low visibility, a strong crosswind and gusts of 35 knots. So my
+lesson was cancelled.
+
+[Last week I flew solo for the first time](/2016/01/30/day-32-lesson-17-first-solo/), the
+weather was lovely with clear blue skies. 
+
     TAF EGGD 061058Z 0612/0712 20022G35KT 9999 FEW003 BKN006
              TEMPO 0612/0619 22032G45KT 7000 RA BKN003
              PROB40 TEMPO 0612/0619 4000 +SHRA

@@ -6,7 +6,7 @@ date:       2016-02-13
 author:     "Owain Abraham-Williams"
 ---
 
-Beautiful weather forcast for tomorrow, but I don't have a lesson booked then!
+Beautiful weather forecast for tomorrow, but I don't have a lesson booked then!
 
     TAF EGGD 130500Z 1306/1406 07012KT 6000 -RA BKN006
              PROB30 TEMPO 1306/1311 06015G25KT 4000 RA BKN004
@@ -18,4 +18,4 @@ Beautiful weather forcast for tomorrow, but I don't have a lesson booked then!
 
 #### TOTAL FLYING HOURS = 18.7
 
-#### PILOT IN COMMAND HOURS = 0.4
+#### SOLO FLYING HOURS = 0.4

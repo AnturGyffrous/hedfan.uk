@@ -17,4 +17,4 @@ author:     "Owain Abraham-Williams"
 
 #### TOTAL FLYING HOURS = 18.7
 
-#### PILOT IN COMMAND HOURS = 0.4
+#### SOLO FLYING HOURS = 0.4

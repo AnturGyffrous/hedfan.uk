@@ -20,6 +20,8 @@ author:     "Owain Abraham-Williams"
  * Controller asks to speak to the instructor and congratulates us on perfect circuits, 6 minutes each.
  * Feel really chuffed
  * But, I'm forgetting Pitch in my BUMPFFICHH checks, not always straight on landing and must check RPM returns to normal after carburettor heat.
+ * Phil also reminds me of the Lights, Camera, Action checklist when about to enter the runway
+ * Must remember to idle the throttle when testing the breaks at start.
 
     TAF EGGD 121101Z 1212/1312 22005KT 9999 FEW045
              BECMG 1220/1223 7000

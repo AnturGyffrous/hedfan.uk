@@ -2,7 +2,7 @@
 layout:     post
 title:      "Day 41 - Cancelled"
 subtitle:   "What looks like perfect flying weather turns out to be hazy and unflyable"
-date:       2016-01-24
+date:       2016-03-13
 author:     "Owain Abraham-Williams"
 ---
 

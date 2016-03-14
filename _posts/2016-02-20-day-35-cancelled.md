@@ -6,14 +6,13 @@ date:       2016-02-20
 author:     "Owain Abraham-Williams"
 ---
 
-    TAF AMD EGGD 200638Z 2006/2106 27014KT 9999 BKN002
-             TEMPO 2006/2106 0300 RADZ FG BKN001
-             TEMPO 2006/2012 28017G27KT
-             BECMG 2007/2010 21014KT
-             BECMG 2010/2013 27024KT
-             TEMPO 2012/2106 28028G38KT=
+The weather [last Saturday](/2016/02/13/day-34-cancelled-carburettor-heat/) had been
+rubbish, but on Sunday it was lovely. Shame I didn't have a lesson booked. Typical!
 
-    METAR EGGD 200850Z AUTO 26018KT 9999 OVC004 08/07 Q1011=
+Today the weather was awful so my lesson was cancelled. I had a another lesson booked
+tomorrow but the weather was looking even worse then. So it doesn't look like I'll be
+consolidating my [solo flying hours](/2016/01/30/day-32-lesson-17-first-solo/) this
+weekend.
 
 #### TOTAL FLYING HOURS = 18.7
 

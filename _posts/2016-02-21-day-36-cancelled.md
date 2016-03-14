@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Day 36 - Lesson Cancelled"
-subtitle:   "More bad weather cancels yet another lesson"
+subtitle:   "Bad weather cancels the second in a double lesson this weekend"
 date:       2016-02-21
 author:     "Owain Abraham-Williams"
 ---

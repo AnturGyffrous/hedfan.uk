@@ -34,8 +34,8 @@ down. Whoops!
 
 After the *go around* I have to orbit at the end of the downwind leg for 10 minutes while
 commercial traffic comes and goes. Although it's expensive flying in circles, it certainly
-helped me relax, as my landing was perfectly smooth, a *greaser* as it's known in the
-aviation industry. Derek comments that it was "the best landing you've ever done".
+helped me relax, as my landing was perfectly smooth, a *greaser* as it's known in aviation
+parlance. Derek comments that it was "the best landing you've ever done".
 
 On the next circuit Derek asks if I feel ready to do one on my own. "Yes" I say, I've been
 ready [since Andrew tried to send me solo two weeks ago](/2016/01/16/day-29-lesson-15-am-i-ready-to-solo/).

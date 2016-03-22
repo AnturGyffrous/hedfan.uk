@@ -54,12 +54,12 @@ solo.
 
 ## First Solo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jk4_pODJUb0" frameborder="0" allowfullscreen></iframe>
-
 Derek takes the controls and taxies us off the runway. Then he says I need to prefix my
 callsign with the word "Student" when on my own, for example "Student Golf Bravo Charlie
 Juliet November". Derek parks up and tells me to have a lovely flight, then he gets out
 and it's just me in command of the aeroplane.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jk4_pODJUb0" frameborder="0" allowfullscreen></iframe>
 
 The tower confirms my clearance and gives me permission to take off. I apply full power,
 accelerate to 60 knots, pull back on the control column and start to fly. With just me in
@@ -89,6 +89,11 @@ acknowledge this request and the tower follows with:
 > And congratulations, nicely done.
 
 I grin from ear to ear. I've done it! My first solo!
+
+![Log book showing my first solo flight](/img/2016-01-30-day-32-first-solo-log-book.jpg)
+
+That's something I'll never be able to do again, fly solo for the first time. So I write
+my log book entry in red ink so it stands out against the other flights.
 
 #### TOTAL FLYING HOURS = 18.7
 

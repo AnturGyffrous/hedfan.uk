@@ -12,7 +12,7 @@ write about the flight equipment and books I've acquired so far.
 
 ![Flight bag, volume 3, 4 and 7 of the Air Pilot's Manuals and a chart](/img/2015-11-08-day-23-01.jpg)
 
-[Back in July](/2015/07/25/day-6/) I bought the [Pooley’s CB-8 knee-board](http://www.pooleys.com/prod_detail.cfm?product_id=115)
+[Back in July](/2015/07/25/day-6/) I bought the [Pooley's CB-8 knee-board](http://www.pooleys.com/prod_detail.cfm?product_id=115)
 along with volume two ([Air Law and Meteorology](http://www.pooleys.com/prod_detail.cfm?product_id=810)),
 volume six ([Human Factors and Pilot Performance](http://www.pooleys.com/prod_detail.cfm?product_id=6))
 and the EASA supplement ([Operational Procedures](http://www.pooleys.com/prod_detail.cfm?product_id=2426))

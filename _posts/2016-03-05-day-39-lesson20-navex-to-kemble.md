@@ -28,6 +28,7 @@ arm (signified by the 'W' at the end of the product code).
  * Bought my own headset, a David Clark H10-13.4 for £305
  * I calculate a flight log to Kemble and back using my whizz-wheel and forecast winds.
  * Still a strong crosswind, so Derek decides we'll just fly over Kemble, we won't land
+ * Pencil lead breaks so I have to dig into my bag for a replacement, the only thing I can find is my red pen!
  * I take off west on 09 and turn right towards Bristol City and Clifton Suspension Bridge
  * Once over the bridge I can climb to 2,500 feet.
  * We fly past the now closed Filton airfield and then over the town of Yate

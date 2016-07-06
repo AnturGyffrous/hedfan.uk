@@ -25,6 +25,7 @@ which includes a 'wind arm'. I had no idea what that meant back then, but now I'
 how to use it I think I should have chosen the standard CRP-1, the one without the wind
 arm (signified by the 'W' at the end of the product code).
 
+ * Bought my own headset, a David Clark H10-13.4 for £305
  * I calculate a flight log to Kemble and back using my whizz-wheel and forecast winds.
  * Still a strong crosswind, so Derek decides we'll just fly over Kemble, we won't land
  * I take off west on 09 and turn right towards Bristol City and Clifton Suspension Bridge
@@ -41,9 +42,24 @@ arm (signified by the 'W' at the end of the product code).
  * The sun means it's still difficult to see features and I can't find the suspension bridge, but I can see Clifton Downs, so aim for that.
  * I contact Bristol Tower and am given permission to enter controlled airspace.
  * My landing instructions are to join right base at Barrow Tanks behind the aircraft on long final.
+
+Golf Tango Lima is commencing an orbit
+
+Golf Tango Lima, roger. The traffic you're looking for is at four and a half miles
+
+Visual with the traffic, Golf Tango Lima
+
+Golf Tango Lima, report final, number two, follow the Embraer. Caution, the wake turbulence recommended spacing is five miles
+
+Wilko, thank you
+
+You should repeat that really, because he said you're number two and the wake turbulence distance was five miles, so you should really repeat that. I'd say "Number two and copy the wake turbulence distance"
+
  * I am visual with the plane, so extend downwind for wake turbulence and then turn base and final.
  * It's still a crosswind so I'm pointing into wind. As I kick straight my death grip on the controls makes for a scary and bunpy landing.
  * Still struggling with crosswinds. This is bad :-(
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Ks-fywpX7k" frameborder="0" allowfullscreen></iframe>
 
     TAF EGGD 051658Z 0518/0618 36010KT 9999 SCT030
              BECMG 0520/0523 30008KT

@@ -25,7 +25,7 @@ which includes a 'wind arm'. I had no idea what that meant back then, but now I'
 how to use it I think I should have chosen the standard CRP-1, the one without the wind
 arm (signified by the 'W' at the end of the product code).
 
- * Bought my own headset, a David Clark H10-13.4 for £305
+ * Bought my own headset, a David Clark H10-13.4 for &pound;305
  * I calculate a flight log to Kemble and back using my whizz-wheel and forecast winds.
  * Still a strong crosswind, so Derek decides we'll just fly over Kemble, we won't land
  * Pencil lead breaks so I have to dig into my bag for a replacement, the only thing I can find is my red pen!
@@ -36,7 +36,7 @@ arm (signified by the 'W' at the end of the product code).
  * I identify Tetbury in the distance and ensure we're above 2,000 feet while flying over Prince Charles' estate.
  * Then I switch to Kemble Information and give them my position and intentions.
  * We overfly and try to see the landing square, but it's not out today.
- * Then we return towards Bristol, the sun is in my eyes and I find it hard to identify distant fratures
+ * Then we return towards Bristol, the sun is in my eyes and I find it hard to identify distant features
  * Also, I only visualised the flight on the map going to Kemble, not coming back, so I'm a bit all over the place.
  * I fly over Tetbury again and switch back to Bristol Radar (LARS)
  * Then I see Badminton to my left and Yate ahead with Bristol in the distance.

@@ -18,6 +18,9 @@ author:     "Owain Abraham-Williams"
  * It all looked okay, but Kevin again reminded me not to fly in cloud and to orbit until it clears if necessary.
  * I gathered all my kit, flight bag, aeroplane technical log, spare headset, go-bag (containing the 
 
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/AnturGyffrous">@AnturGyffrous</a> I heard you en route Swansea sounding very professional on the RT</p>&mdash; Bristol &amp; Wessex (@Bristol_Wessex) <a href="https://twitter.com/Bristol_Wessex/status/750393635435339776">July 5, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
     METAR EGGD 050950Z AUTO 30010KT 9999 BKN025 15/10 Q1019=
 
     METAR EGFF 050950Z AUTO 30012KT 9999 BKN020 OVC035 16/11

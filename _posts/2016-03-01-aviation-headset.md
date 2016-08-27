@@ -7,11 +7,11 @@ author:     "Owain Abraham-Williams"
 ---
 
 I told myself that after I had [flown solo for the first time](/2016/01/30/day-32-lesson-17-first-solo/)
-I would buy my own aviation headset and stop using the clubs headsets. Although there's
+I would buy my own aviation headset and stop using the club's headsets. Although there's
 nothing stopping me continue to use club ones, I feel that using my own headset will give
 me a little extra consistency and reduce the number of variables that can change in the
 cockpit. Maybe I'm kidding myself, perhaps I just want to spend more time looking like
-Maverick from Top Gun!
+Maverick from [Top Gun](http://www.imdb.com/title/tt0092099/)!
 
 Whatever my reasons for buying my own headset, the biggest obstacle was choosing the right
 one. There are dozens of makes and models on the market, with price tags from just over
@@ -43,7 +43,9 @@ you [@FlightstoreUK](https://twitter.com/FlightstoreUK).
 
 It came with a free headset case. However, my [Flight Outfitters Lift Flight Bag](http://www.flightstore.co.uk/pilot-supplies-c1/flight-bags-and-cases-c107/flight-bags-c108/flight-outfitters-lift-flight-bag-p5540)
 has a large headset pocket (pictured above), meaning I can fit all my equipment in one bad
-and won't need to carry a separate headset case.
+and won't need to carry a separate headset case. As to whether this will help with my
+[crosswind landings](2016/02/27/day-37-lesson18-circuits-in-crosswind/), we'll have to
+wait and see...
 
 #### TOTAL FLYING HOURS = 20.7
 

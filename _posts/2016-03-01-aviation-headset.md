@@ -15,7 +15,7 @@ Maverick from [Top Gun](http://www.imdb.com/title/tt0092099/)!
 
 Whatever my reasons for buying my own headset, the biggest obstacle was choosing the right
 one. There are dozens of makes and models on the market, with price tags from just over
-&pound;100 to nearly a &pound;1,000. They range in weight and comfort as well as with
+&pound;100 to nearly &pound;1,000. They range in weight and comfort as well as with
 features like [Active Noise Reduction (ANR)](https://en.wikipedia.org/wiki/Active_noise_control)
 and even *Bluetooth*<sup>&reg;</sup> connectivity so you can make and receive phone calls.
 
@@ -42,7 +42,7 @@ you [@FlightstoreUK](https://twitter.com/FlightstoreUK).
 ![My David Clark headset in my Flight Outfitters flight bag](/img/2016-03-01-aviation-headset-02.jpg)
 
 It came with a free headset case. However, my [Flight Outfitters Lift Flight Bag](http://www.flightstore.co.uk/pilot-supplies-c1/flight-bags-and-cases-c107/flight-bags-c108/flight-outfitters-lift-flight-bag-p5540)
-has a large headset pocket (pictured above), meaning I can fit all my equipment in one bad
+has a large headset pocket (pictured above), meaning I can fit all my equipment in one bag
 and won't need to carry a separate headset case. As to whether this will help with my
 [crosswind landings](2016/02/27/day-37-lesson18-circuits-in-crosswind/), we'll have to
 wait and see...

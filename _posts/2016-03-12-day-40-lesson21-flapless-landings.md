@@ -4,15 +4,17 @@ title:      "Day 40 - Lesson 21"
 subtitle:   "Flapless approaches and landings"
 date:       2016-03-12
 author:     "Owain Abraham-Williams"
+header-img: "img/2016-03-12-day-40-bg.jpg"
 ---
 
-The weather today looks beautiful, perfect for flying. I check the `METAR` and am pleased
-to see it report very light winds, visibility of 10km of more and no cloud detected:
+The weather today looks beautiful, perfect for flying. I check the [METAR](/2015/07/12/day-4/)
+and am pleased to see it report very light winds, visibility of 10km of more and no cloud:
 
     METAR EGGD 121420Z AUTO VRB03KT 9999 NCD 10/02 Q1030=
 
-The `TAF` also looks wonderful, forecasting wind from 220&deg; at 5 knots, visibility of
-10km or more and few clouds at 4,500 feet for the rest of the day.
+The [TAF](/2015/07/12/day-4/) also looks wonderful, forecasting that for the rest of the
+day, the wind will be coming from 220&deg; at 5kts, visibility will be 10km or more and
+the few clouds that are in the sky will have a base of 4,500 feet.
 
     TAF EGGD 121101Z 1212/1312 22005KT 9999 FEW045
              BECMG 1220/1223 7000
@@ -21,7 +23,7 @@ The `TAF` also looks wonderful, forecasting wind from 220&deg; at 5 knots, visib
 
 So, as you can imagine, I was surprised when the club phoned to say that my lesson might
 not go ahead. It turns out that although visibility on the ground is perfect for flying,
-visibility aloft is very low because of haze. Apparently you can't even see Bristol City
+because of haze, visibility aloft is very low. Apparently you can't even see Bristol City
 from the airport, which is only about 5 miles away.
 
 Fortunately, my lesson wasn't scheduled until late afternoon, by which time the haze had
@@ -33,7 +35,7 @@ in one of the briefing rooms and go over what I have learnt so far. Phil suggest
 today we fly flapless approaches and landings. He explains that with no flap the stall
 speed will be higher so we need to fly faster on the approach, 80kts instead of 70kts as
 it would be with full flaps. He also gives me another check list he finds useful (and
-amusing), he calls them the **CRAP** checks!
+amusing); he calls them the **CRAP** checks!
 
  * **C**arburettor - *off*
  * **R**unway - *clear*
@@ -49,28 +51,55 @@ backtrack.
 Phil explains this is to do with the wake turbulence created by the larger aeroplane
 taking off. It will have used most of the runway before being fast enough to fly, so the
 wake turbulence would have started a long way down the runway. If I wanted to take off
-from the intersection, I would lift off at a similar point. Therefore, I need to wait 3
-minutes for their wake turbulence to dissipate. If I backtracked to the start of the
-runway, then I'd be fast enough to fly much earlier than the other plane, thus able to
-climb above their wake turbulence. Which is why I'd only have to wait 2 minutes before
+from the intersection, I would lift off at a similar point. Therefore, I would need to
+wait 3 minutes for their wake turbulence to dissipate. If I backtracked to the start of
+the runway, then I'd be fast enough to fly much earlier than the other plane, thus able to
+climb above their wake turbulence. Hence I'd only have to wait 2 minutes before
 starting my take off role.
 
- * TAF and METAR look perfect for flying.
- * But the club phones to say visibility aloft is very low because of haze.
- * I call the club just before my lesson and they say it's just about okay.
- * Today, I'm flying whith a different instructor, Phil. We spend a while going over what I've learnt and re-capping the circuit.
- * Phil gives me a new landing checklist, CRAP, Carburettor Heat, Runway Clear, Approach Good and Permission Given.
- * Phil suggests we do flapless landings today.
- * We start with a full flap landing and I'm pleased with it. My first good landing since my solo!
- * The second one is a semi-flapless landing, just two stages, not three. The landing is fine, but I forget the carburettor heat, must learn CRAP.
- * Third landing is a flapless one, so CRAP is important, I get to C and realise I forgot to turn carburettor heat ON! The landing is good though.
- * Fourth landing is also flapless. This time I remember carburettor heat and CRAP. The landing is good again.
- * Fifth landing is a full flap one and goes well.
- * Controller asks to speak to the instructor and congratulates us on perfect circuits, 6 minutes each.
- * Feel really chuffed
- * But, I'm forgetting Pitch in my BUMPFFICHH checks, not always straight on landing and must check RPM returns to normal after carburettor heat.
- * Phil also reminds me of the Lights, Camera, Action checklist when about to enter the runway
- * Must remember to idle the throttle when testing the breaks at start.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C5cH_YV3QLs" frameborder="0" allowfullscreen></iframe>
+
+For my first circuit Phil asks me to do a normal, full flap landing. The wind was calm so
+my approach was fine and I touched down well; so much easier than the [crosswind landings](/2016/02/27/day-37-lesson18-circuits-in-crosswind/)
+I'd struggled with two weeks ago.
+
+On the second circuit I use partial flaps, going to just the second stage, not third. I'd
+done this on some of the crosswind landings, so nothing much new here. However, not
+deploying the third stage meant I forgot to turn the carburettor heat off. Phil says this
+is the value of the **CRAP** checks, I have a check list as my prompt to turn the
+carburettor heat off rather than using the third stag of flaps as a prompt.
+
+Then, on the third circuit I do a flapless landing. I've become so used to putting the
+first stage of flaps down when flying the base leg that it feels quite peculiar to still
+have the wings in their clean configuration when approaching to land. I turn onto final,
+flying at 80kts, and this time remember the **CRAP** checks. The first check, **C** for
+turning the carburettor off, yields the first problem, I forgot to turn the carburettor
+*on* when beginning my descent. My landing is a greaser though; I chuckle with delight
+after the struggles I had landing with a crosswind.
+
+We do another flapless approach and again I'm pleased with my landing. As we climb back up
+to circuit height Phil takes the controls and talks me though a couple of areas he thinks
+I can improve on. Firstly, I'm forgetting **P**itch in my [BUMPFFICHH](/2015/08/29/day-11-lesson-7/)
+checks. Secondly, I'm reducing the throttle to idle too early when landing, this is making
+me pitch down to maintain speed, something Phil refers to as a "*dirty dive to the
+ground*". I should use height above the runway as my reference point for reducing the
+throttle, rather than position over the threshold.
+
+Phil gives the controls back to me for the last landing and again I touch down well. As I
+taxi off the runway the controller asks to speak with my instructor over the radio and
+says:
+
+> Very neat circuits flown by Tango Lima. Almost exactly six minutes apart on the
+> touchdown. I don't know if it's a good student or just good instruction.
+
+To which Phil replies:
+
+> It's a good student.
+
+I chuckle out load and grin to myself. It's been such a boost to have a good lesson with
+some great landings. Although I have the weather to thank for that I'm still very pleased.
+Phil says that in tomorrow's lesson I can fly solo without doing any circuits with him
+first, I'm chuffed to bits to hear that.
 
 #### TOTAL FLYING HOURS = 22.5
 

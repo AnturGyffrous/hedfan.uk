@@ -44,7 +44,7 @@ you [@FlightstoreUK](https://twitter.com/FlightstoreUK).
 It came with a free headset case. However, my [Flight Outfitters Lift Flight Bag](http://www.flightstore.co.uk/pilot-supplies-c1/flight-bags-and-cases-c107/flight-bags-c108/flight-outfitters-lift-flight-bag-p5540)
 has a large headset pocket (pictured above), meaning I can fit all my equipment in one bag
 and won't need to carry a separate headset case. As to whether this will help with my
-[crosswind landings](2016/02/27/day-37-lesson18-circuits-in-crosswind/), we'll have to
+[crosswind landings](/2016/02/27/day-37-lesson18-circuits-in-crosswind/), we'll have to
 wait and see...
 
 #### TOTAL FLYING HOURS = 20.7

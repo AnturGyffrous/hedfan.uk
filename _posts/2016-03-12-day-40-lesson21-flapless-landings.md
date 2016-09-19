@@ -78,7 +78,7 @@ turning the carburettor off, yields the first problem, I forgot to turn the carb
 after the struggles I had landing with a crosswind.
 
 We do another flapless approach and again I'm pleased with my landing. As we climb back up
-to circuit height Phil takes the controls and talks me though a couple of areas he thinks
+to circuit height Phil takes the controls and talks me through a couple of areas he thinks
 I can improve on. Firstly, I'm forgetting **P**itch in my [BUMPFFICHH](/2015/08/29/day-11-lesson-7/)
 checks. Secondly, I'm reducing the throttle to idle too early when landing, this is making
 me pitch down to maintain speed, something Phil refers to as a "*dirty dive to the

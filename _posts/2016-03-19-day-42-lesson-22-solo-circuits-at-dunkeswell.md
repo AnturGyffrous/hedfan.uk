@@ -88,10 +88,9 @@ less hard than my first attempt.
 
 <iframe width="560" height="315" src="/maps/2016-03-19-day-42-lesson-22-map.html" frameborder="0"></iframe>
 
-
 I park up at the end of the runway, Derek gets back in and we return to Bristol. Along the
 way Derek is pointing out features on the ground and making sure I can spot them on my
-map. I also switch from Dunkeswell radio to Bristol Radar to Bristol Tower.
+map. I also switch from Dunkeswell radio to Bristol Radar and then to Bristol Tower.
 
 ## Radio Interference
 

@@ -29,8 +29,7 @@ required to have a clearance to taxi, take off and land.
 Then there are aerodromes like Kemble (who I spoke to on the radio
 [two weeks ago](/2016/03/05/day-39-lesson20-navex-to-kemble/)) who only have a `FIS`
 (Flight Information Service) which is referred to as '*Kemble Information*', it's not a
-control service, but an information service, so you don't *require* clearance to take off
-and land.
+control service so you don't *require* clearance to take off and land.
 
 Finally there's Dunkeswell who have just `A/G` (Air/Ground) communications. Here you won't
 necessarily get information about other aeroplanes operating in the area. When you call on
@@ -62,9 +61,8 @@ myself out and land smoothly. Derek is as surprised as me and says "*I wasn't ex
 that.*"
 
 We fly two more circuits. Derek points out features on the ground I can look out for to
-aid situational awareness. The landings are both good ones. On the third landing Derek
-radios in to say he's getting out and sending me solo. This is great news, more solo
-time!
+aid situational awareness. The landings are both good ones and on the third Derek radios
+in to say he's getting out and sending me solo. This is great news, more solo time!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bjD2Hw7g_NA" frameborder="0" allowfullscreen></iframe>
 

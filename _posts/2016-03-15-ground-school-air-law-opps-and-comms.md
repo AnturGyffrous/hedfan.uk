@@ -4,6 +4,7 @@ title:      "Ground School"
 subtitle:   "Preparation for my first three exams, Air Law, Operational Procedures & Communications"
 date:       2016-03-15
 author:     "Owain Abraham-Williams"
+header-img: "img/2015-06-20-joining-a-club-bg.jpg"
 ---
 
 This evening I was back at the club, but not to fly. Instead Nick was giving me exam

@@ -13,17 +13,29 @@ worried though, as Derek was stuck in the same jam and still hadn't arrived. Whi
 waited I went out to the aeroplane and ran through the pre-flight checks.
 
 When Derek arrives he tells me we aren't going to do circuits at Bristol today because of
+<<<<<<< HEAD
+a crosswind, instead we'll combine circuits with navigation and go to Dunkeswell
+=======
 a crosswind; instead we'll combine circuits with navigation and go to Dunkeswell
+>>>>>>> gh-pages
 Aerodrome. It's about a 20 minute flight away, south of Bristol in the Blackdown Hills in
 East Devon.
 
 ## Radio Calls
 
+<<<<<<< HEAD
+We take off and head over Cheddar Reservoir, past Bridgewater and Taunton. With the
+Blackdown Hills in sight ahead of us it's time to contact Dunkeswell.
+
+Different airports have different types of radio communication procedures, Bristol has a
+full `ATC` (Air Traffic Control) and is referred to as '*Bristol Tower*', here you are
+=======
 We take off and head over Cheddar Reservoir, past Bridgwater and Taunton. With the
 Blackdown Hills in sight ahead of us it's time to contact Dunkeswell.
 
 Different airports have different types of radio communication procedures. Bristol has a
 full `ATC` (Air Traffic Control) and is referred to as '*Bristol Tower*'; here you are
+>>>>>>> gh-pages
 required to have a clearance to taxi, take off and land.
 
 Then there are aerodromes like Kemble (who I spoke to on the radio
@@ -42,6 +54,7 @@ currently tuned to, to "*QSY Dunkeswell Radio*". QSY is an old R/T phrase which 
 '*change too*', I later learn the phraseology I should be using is '*request frequency
 change*' not '*QSY*'!
 
+<<<<<<< HEAD
 [//]: # Transcript from 160319_001 at position 00:42:49
 [//]: # D: When we get to Taunton we'll call her that we're at Taunton and that we want the QSY
 [//]: # O: Right
@@ -52,6 +65,8 @@ change*' not '*QSY*'!
 [//]: # O: So it'll be QSY Dunbkeswell Radio
 [//]: # D: It'll be Bristol Radio, Golf Tango Lima's at Taunton, QSY to Dunkeswell Radio and that.
 
+=======
+>>>>>>> gh-pages
 ## Solo Circuits
 
 We join downwind, radio our position and complete the before-landing check list. Then turn
@@ -78,7 +93,11 @@ best solo landing I've ever done and I feel elated.
 
 On the next circuit I announce this will be a full-stop landing, but the radio operator
 says Derek wants me to do one more solo landing. So I plan for a touch-and-go, the landing
+<<<<<<< HEAD
+is a good one, but as I reach for the flap leaver I realise I forgot to put the last stage
+=======
 is a good one, but as I reach for the flap lever I realise I forgot to put the last stage
+>>>>>>> gh-pages
 down.
 
 Then I do my fifth and final landing, it's also a good one. Perhaps not as good as the

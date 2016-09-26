@@ -4,12 +4,13 @@ title:      "Day 42 - Lesson 22"
 subtitle:   "Solo circuits at Dunkeswell"
 date:       2016-03-19
 author:     "Owain Abraham-Williams"
+header-img: "img/2016-03-19-day-42-bg.jpg"
 ---
 
 There was a traffic jam on the way to the club this morning, unusual for 9am on a
-Saturday. I parked my car, darted in and apologised for my tardiness. I needn't have
-worried though, as Derek was stuck in the same jam and still hadn't arrived. So I went out
-to the aeroplane and ran through the pre-flight checks.
+Saturday. When I arrived I darted in and apologised for my tardiness. I needn't have
+worried though, as Derek was stuck in the same jam and still hadn't arrived. While I
+waited I went out to the aeroplane and ran through the pre-flight checks.
 
 When Derek arrives he tells me we aren't going to do circuits at Bristol today because of
 a crosswind, instead we'll combine circuits with navigation and go to Dunkeswell

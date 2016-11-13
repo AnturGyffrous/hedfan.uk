@@ -49,7 +49,7 @@ My first powered-off approach was fine, I flared well and landed gently. My seco
 was also fine, another good landing. Things were going well. But on my third landing I
 drifted off the centre-line and in the flare lost too much speed. This made for a harder
 landing than the first two. I thought this might scupper my chances of going solo, but
-Derek was happy enough. He jumped out when we were back on the apron and and I radioed for
+Derek was happy enough. He jumped out when we were back on the apron and I radioed for
 taxi clearance.
 
 ## Solo Powered-off Approaches

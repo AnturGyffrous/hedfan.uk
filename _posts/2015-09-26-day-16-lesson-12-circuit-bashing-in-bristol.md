@@ -20,7 +20,7 @@ crosswind leg. Then at 1,000 feet you level off, by which time you'll be ready t
 another 90&deg; and fly the downwind leg, parallel to the runway. At this point you radio
 the tower and tell them your intentions (e.g. downwind for touch-and go, or to land, etc.)
 
-Then it's the BUMPFFICH checks (Breaks, Undercarriage, Mixture, Pitch, Fuel, Fuel pump,
+Then it's the BUMPFFICH checks (Brakes, Undercarriage, Mixture, Pitch, Fuel, Fuel pump,
 Instruments, Carburettor heat and Hatches and harnesses), by which point you'll be near
 the end of the leg and it'll be time to turn another 90&deg; onto base. Apply carburettor
 heat, reduce power to 1,500 RPM and configure the plane for a descent at 70 knots, apply

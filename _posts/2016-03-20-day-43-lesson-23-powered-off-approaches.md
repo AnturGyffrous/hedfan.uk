@@ -25,8 +25,8 @@ the good news that I had been accepted into the circuit. The wind was coming fro
 North East which meant we would be using Runway 09. ATC instructed me to cross the runway
 and complete my power checks on the north side of the airport. This is the side where the
 commercial traffic operates, it feels quite daunting to be looking at the passenger
-boarding bridges and large jets from my little 4-seater aeroplane. Soon we're given take
-off clearance and I'm climbing to circuit height.
+boarding bridges and large jets from my little 4-seater aeroplane. Soon we're given
+take-off clearance and I'm climbing to circuit height.
 
 ## Powered-off Approaches
 
@@ -50,11 +50,11 @@ was also fine, another good landing. Things were going well. But on my third lan
 drifted off the centre-line and in the flare lost too much speed. This made for a harder
 landing than the first two. I thought this might scupper my chances of going solo, but
 Derek was happy enough. He jumped out when we were back on the apron and and I radioed for
-tax clearance.
+taxi clearance.
 
 ## Solo Powered-off Approaches
 
-I took off, climbed to circuit height, completed the **BUMPFFICH** checks (**B**reaks,
+I took off, climbed to circuit height, completed the **BUMPFFICH** checks (**B**rakes,
 **U**ndercarriage, **M**ixture, **P**itch, **F**uel, **F**uel pump, **I**nstruments,
 **C**arburettor heat and **H**atches and harnesses) and turned onto base. I reduced power
 to idle, turned onto final and glided down to the runway. I flared while trying to correct

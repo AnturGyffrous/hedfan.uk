@@ -81,7 +81,7 @@ author:     "Owain Abraham-Williams"
  * After all that we return to Bristol. The circuit is clear and no one is on long final so we're given number one and cleared to land.
  * Mark asks me to perform a powered off landing, but I pull the power off much too early and he grabs my hand as I go to apply the first stage of rudder.
  * "You'll never make it from here" he says. Oh dear. He says instead we'll do a performance landing.
- * I've only ever done one performance landing, but I know what to do. So I aim for the numbers and touch down as slow as possible and apply breaks. Mark seems happy with it.
+ * I've only ever done one performance landing, but I know what to do. So I aim for the numbers and touch down as slow as possible and apply brakes. Mark seems happy with it.
  * We turn off the runway and I'm sure I've failed. As I park up I wait for those immortal words confirming my fears.
  * Mark talks me through a few issues with my flying. He says QSY is an old fashioned phrase, I should instead use "request frequency change". He also comments on my map reading and how I need to concentrate on what's out the window more.
  * Then he gets out of the plane and asks me to put the control locks on. He didn't tell me I've failed...

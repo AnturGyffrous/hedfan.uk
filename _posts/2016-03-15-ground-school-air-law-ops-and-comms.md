@@ -5,6 +5,7 @@ subtitle:   "Preparation for my first three exams, Air Law, Operational Procedur
 date:       2016-03-15
 author:     "Owain Abraham-Williams"
 header-img: "img/2015-06-20-joining-a-club-bg.jpg"
+redirect_from: "/2016/03/15/ground-school-air-law-opps-and-comms/"
 ---
 
 This evening I was back at the club, but not to fly. Instead Nick was giving me exam

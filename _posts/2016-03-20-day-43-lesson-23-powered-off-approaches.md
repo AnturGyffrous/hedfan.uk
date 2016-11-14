@@ -45,6 +45,8 @@ approach is markedly different. You can't use the throttle to control your desce
 and you must keep your speed up to avoid stalling. It feels really rather scary as you're
 descending towards the ground. Especially when it comes to flaring just above the runway.
 
+<iframe width="560" height="315" src="/maps/2016-03-20-day-43-lesson-23-map.html" frameborder="0"></iframe>
+
 My first powered-off approach was fine, I flared well and landed gently. My second circuit
 was also fine, another good landing. Things were going well. But on my third landing I
 drifted off the centre-line and in the flare lost too much speed. This made for a harder
@@ -64,17 +66,18 @@ remembering the [**CRAP** checks Phil taught me](/2016/03/12/day-40-lesson21-fla
 (**C**arburettor heat off, **R**unway clear, **A**pproach looking good and **P**ermission
 to land received).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xkq5HkkdtaE" frameborder="0" allowfullscreen></iframe>
-
 On the second circuit I had to orbit at the end of the downwind leg for about 5 minutes
-while commercial traffic took off and landed. Then I was given my landing clearance. Power
-reduced to idle, **CRAP** checks remembered this time, flared and kicked straight, landing
-smoothly. I was pleased with this landing.
+while commercial traffic took off and landed. Then I was given my landing clearance.
+Because of the wake turbulence separation I started my approach with power and then
+reduced to idle when close enough to the runway. This time I remembered the **CRAP**
+checks, flared and kicked straight, landing smoothly. I was pleased with the landing.
 
 My third solo powered-off landing was somewhere in-between. Better than my first attempt,
 but not as good as my second. Nevertheless, I was happy with the approach and felt I had
 learned a lot about controlling the aeroplane when coming in to land. So I took off and
 decided to make this circuit the last one.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xkq5HkkdtaE" frameborder="0" allowfullscreen></iframe>
 
 I did a normal, powered, full flap landing this time. I felt the aeroplane float above the
 runway in ground effect and landed incredibly smoothly, a real greaser. It felt like

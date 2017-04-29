@@ -4,7 +4,8 @@ header-img: img/home-bg.jpg
 email: owain@hedfan.uk
 description: "A blog about my own personal love affair with flight."
 baseurl: ""
-url: "http://hedfan.uk"
+url: https://hedfan.uk
+enforce_ssl: hedfan.uk
 twitter_username: AnturGyffrous
 github_username:  AnturGyffrous
 author: Owain Abraham-Williams

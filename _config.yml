@@ -18,4 +18,4 @@ paginate: 20
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # Gems
-gems: [jekyll-paginate,jekyll-redirect-from]
+plugins: [jekyll-paginate,jekyll-redirect-from]
